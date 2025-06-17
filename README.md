@@ -1,5 +1,5 @@
-# 👋 ¡Hola! Soy [Tu Nombre]  
-### Desarrollador de Software | Backend | Microservicios | NestJS | PostgreSQL
+# 👋 ¡Hola!
+### Soy Desarrollador de Software | Backend | Microservicios | NestJS | PostgreSQL
 
 Soy un desarrollador de software con fuerte enfoque en arquitectura de **microservicios**, especializado en **NestJS**, **PostgreSQL** y tecnologías modernas del ecosistema JavaScript/TypeScript. Me apasiona construir sistemas escalables, seguros y de alto rendimiento.
 
