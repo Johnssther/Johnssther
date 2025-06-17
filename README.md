@@ -52,21 +52,52 @@ Me apasiona construir soluciones técnicas eficientes, limpias y orientadas a la
 
 ---
 
+
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Johnssther&show_icons=true&theme=radical" alt="Estadísticas GitHub" />
+
+<div>
+
+  <!-- Stats generales -->
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=Johnssther&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide=issues&custom_title=Estadísticas%20de%20Johnssther&rank_icon=percentile"
+    width="480"
+    alt="Estadísticas de GitHub"
+  />
+
+  <!-- Racha de commits -->
   <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Johnssther&layout=compact&theme=radical" alt="Lenguajes más usados" />
-</p>
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com?user=Johnssther&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D"
+    width="480"
+    alt="Racha de contribuciones"
+  />
+
+  <!-- Lenguajes más usados -->
+  <br />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Johnssther&layout=compact&theme=tokyonight&langs_count=8&hide_progress=false&card_width=400"
+    width="400"
+    alt="Lenguajes más usados"
+  />
+
+  <!-- Trofeos de GitHub -->
+  <br />
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=Johnssther&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=10"
+    alt="Trofeos de GitHub"
+  />
+
+</div>
+
 
 ---
 
 ## 🌍 ¿Cómo contactarme?
 
-- 📧 **Correo:** john@example.com  
 - 💼 **LinkedIn:** [linkedin.com/in/johnssther](https://www.linkedin.com/in/johnalejandro/)  
-- 🌐 **Portafolio:** [tusitio.dev](https://johnr.top)
+- 🌐 **Web:** [johnr.top](https://johnr.top)
+-  **Twitter/X** [x.com/johnalejandrohr](https://x.com/johnalejandrohr)
 
 ---
 
